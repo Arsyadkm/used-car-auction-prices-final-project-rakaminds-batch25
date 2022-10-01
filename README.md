@@ -1,7 +1,7 @@
 # used-car-auction-prices-final-project-rakaminds-batch25
 
 Dataset
-This dataset obtained from Kaggle Used Car Auction Prices. Dataset using historical data of sold used car in United States
+Dataset diperoleh dari Kaggle dengan data Used Car Auction Prices. Data ini menggunakan data jumlah unit used car yang terjual di United States.
 
 Problem Statement:
 Salah satu bagian penting dari industri used-car adalah kesesuaian harga jual kendaraan dengan kondisi dan spesifikasi.
@@ -9,17 +9,17 @@ Apakah harga yang kita tentukan dalam penjualan unit sudah sesuai?
 Seberapa besar odometer mempengaruhi harga jual?
 Seberapa kondisi mempengaruhi harga jual?
 
-Goal
+Goal:
 Membuat model dan prediksi yang dapat digunakan untuk menentukan harga mobil bekas secara otomatis, berdasarkan spesifikasi dan kondisi yang di-input oleh user. Sehingga proses penilaian & penentuan harga bisa menjadi lebih cepat & akurat sehingga mendapatkan keuntungan maksimal
 
-Objective
+Objective:
 Membuat model untuk memprediksi harga secara otomatis
 Memberikan estimasi harga yang sesuai dalam pembelian unit kendaraan berdasarkan spesifikasi & kondisi
 
-Role
+Role:
 Tim Data Scientist CARR-ELLO (Perusahaan yang bergerak dibidang jual-beli mobil) berperan dalam memberikan rekomendasi atas masalah yang dihadapi perusahaan
 
-Business Metrics
+Business Metrics:
 Kenaikan Revenue atas selisih antara MMR dengan Selling Price
 
 
