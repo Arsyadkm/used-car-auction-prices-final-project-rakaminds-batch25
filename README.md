@@ -21,7 +21,9 @@ Tim Data Scientist CARR-ELLO (Perusahaan yang bergerak dibidang jual-beli mobil)
 
 Business Metrics
 Kenaikan Revenue atas selisih antara MMR dengan Selling Price
- 
+
+
+
 Project ini terbagi menjadi 4 stage:
 
     Stage 1 - Preparation: Menentukan problem statement, Goal, Objective & Role.
